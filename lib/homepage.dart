@@ -25,8 +25,6 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       time = 0;
       initialHeight = birdYAxis;
-      print(barrierXOne);
-      print(score);
     });
     keepScore();
   }
