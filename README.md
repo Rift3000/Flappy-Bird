@@ -1,5 +1,5 @@
 # Flappy-Bird built with Flutter
-[<img src="https://i.ibb.co/yqQ32BK/flappy-gif.gif" height="200" width="250">](https://i.ibb.co/yqQ32BK/flappy-gif.gif")
+[<img src="https://i.ibb.co/yqQ32BK/flappy-gif.gif" height="400" width="450">](https://i.ibb.co/yqQ32BK/flappy-gif.gif")
 
 
 ## Link to the web app
