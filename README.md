@@ -1,5 +1,5 @@
 # Flappy-Bird built with Flutter
-![Flappy Bird](flappy-gif.gif)
+![Flappy Bird](flappy-gif.gif =250x)
 
 ## Link to the web app
 https://rift3000.github.io/#/
