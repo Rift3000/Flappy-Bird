@@ -1,6 +1,5 @@
 # Flappy-Bird built with Flutter
-![Flappy Bird](flappy-gif.gif | width=100)
-
+[<img src="https://i.ibb.co/yqQ32BK/flappy-gif.gif" height="100" width="100">](Flappy Bird)
 ## Link to the web app
 https://rift3000.github.io/#/
 
